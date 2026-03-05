@@ -57,13 +57,13 @@
         "icon.placeholder": "#858994",
         "icon.accent": "#00a9bf",
 
-        "status_bar.background": "#e8e6e2",
-        "title_bar.background": "#e8e6e2",
-        "title_bar.inactive_background": "#edebe8",
+        "status_bar.background": "#e4e6ea",
+        "title_bar.background": "#e4e6ea",
+        "title_bar.inactive_background": "#eaecef",
         "toolbar.background": "#f2f3f7",
 
-        "tab_bar.background": "#e8e6e2",
-        "tab.inactive_background": "#e8e6e2",
+        "tab_bar.background": "#e4e6ea",
+        "tab.inactive_background": "#e4e6ea",
         "tab.active_background": "#f2f3f7",
 
         "search.match_background": "#b8e6c7",
