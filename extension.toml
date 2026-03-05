@@ -1,0 +1,7 @@
+id = "cyan-light-theme"
+name = "Cyan Light Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Michał Matczuk"]
+description = "Port of the Cyan Light Theme from the JetBrains"
+repository = "https://github.com/matczuk/cyan-light-theme-zed"
