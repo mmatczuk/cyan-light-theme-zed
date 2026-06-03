@@ -205,7 +205,7 @@
 
         "syntax": {
           "attribute": {
-            "color": "#0073E6",
+            "color": "#808021",
             "font_style": "normal",
             "font_weight": null
           },
@@ -270,7 +270,7 @@
             "font_weight": null
           },
           "function.definition": {
-            "color": null,
+            "color": "#00627A",
             "font_style": "normal",
             "font_weight": null
           },
@@ -390,22 +390,22 @@
             "font_weight": null
           },
           "type": {
-            "color": "#660e7a",
+            "color": "#9E4A19",
             "font_style": "normal",
             "font_weight": null
           },
           "type.builtin": {
-            "color": "#660e7a",
+            "color": "#000080",
             "font_style": "normal",
             "font_weight": null
           },
           "type.super": {
-            "color": "#660e7a",
+            "color": "#9E4A19",
             "font_style": "italic",
             "font_weight": null
           },
           "type.interface": {
-            "color": "#660e7a",
+            "color": "#9E4A19",
             "font_style": "italic",
             "font_weight": null
           },
